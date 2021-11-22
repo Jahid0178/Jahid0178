@@ -1,4 +1,4 @@
-### Hi I'm Zahidul Haque 👋
+## Hi I'm Zahidul Haque 👋
 
 ## 🚀 About Me
 
