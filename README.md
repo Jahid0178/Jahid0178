@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi I'm Zahidul Haque 👋
 
-**Jahid0178/Jahid0178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a MERN / full stack developer...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🛠 Skills
+
+HTML, CSS, Javascript, Bootstrap, Tailwind, Material UI, React JS, Node JS, MongoDB, Express
