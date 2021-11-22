@@ -3,10 +3,6 @@
 <h1>Hi 👋, I'm Zahidul Haque</h1>
 <h3>A Passionate Front-end developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0178&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0178" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid0178" alt="jahid0178" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack Developing**
 
 - 🌱 I’m currently learning **Everything**
@@ -14,6 +10,10 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **zahidul.haque767@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0178&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0178" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid0178" alt="jahid0178" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
