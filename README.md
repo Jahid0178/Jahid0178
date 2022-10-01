@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Developing**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **React**
 
