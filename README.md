@@ -9,7 +9,7 @@ Passionate front-end developer, building clean and responsive websites. Skilled 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Link](http://https://zahidul-haque.vercel.app)
 * ✉️  You can contact me at [zahidul.haque767@gmail.com](mailto:zahidul.haque767@gmail.com)
-* 🚀  I'm currently working on [PropertyRent.xyz](http://https://www.propertyrent.xyz)
+* 🚀  I'm currently learning python
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
